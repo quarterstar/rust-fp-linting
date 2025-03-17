@@ -32,11 +32,6 @@ fn baz() {
         // This is syntactic sugar for the above, so the same thing will happen.
     }
 }
-
-fn main() {
-
-}
-
 ```
 
 ## License
